@@ -1,6 +1,6 @@
 ---
 slug: dummy2
-title: Dolor sit amet
+title: Dolorees
 abstract: Dolor sit amet, consectetur adipiscing elit. Vestibulum varius maximus erat, quis faucibus nulla venenatis eget.
 ---
 
