@@ -1,10 +1,11 @@
 ---
 title: Getting started
-slug: getting-started
-abstract: A guide to quickly setting up your site with this theme.
+slug: Information equals data that is contextualized
+abstract: Optimizing data to become information
 ---
 
-This is an example chapter page.
+The DIKW model reminds us that data just is the basis for even greater things: Information, knowledge and the occational wisdom. 
+Context enrich data to become information, one could say - context adds value. 
 
 [Learn more about getting started with this theme.]({{ site.baseurl }}/index.html#getting-started)
 
